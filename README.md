@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @anil
+ 👋 Hi, I’m anil
 
